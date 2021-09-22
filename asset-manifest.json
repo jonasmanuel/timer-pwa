@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/timer-pwa/static/css/main.a617e044.chunk.css",
+    "main.js": "/timer-pwa/static/js/main.518d0b47.chunk.js",
+    "main.js.map": "/timer-pwa/static/js/main.518d0b47.chunk.js.map",
+    "runtime-main.js": "/timer-pwa/static/js/runtime-main.42cbbe2d.js",
+    "runtime-main.js.map": "/timer-pwa/static/js/runtime-main.42cbbe2d.js.map",
+    "static/js/2.880acd3b.chunk.js": "/timer-pwa/static/js/2.880acd3b.chunk.js",
+    "static/js/2.880acd3b.chunk.js.map": "/timer-pwa/static/js/2.880acd3b.chunk.js.map",
+    "static/js/3.8d220f2f.chunk.js": "/timer-pwa/static/js/3.8d220f2f.chunk.js",
+    "static/js/3.8d220f2f.chunk.js.map": "/timer-pwa/static/js/3.8d220f2f.chunk.js.map",
+    "index.html": "/timer-pwa/index.html",
+    "service-worker.js": "/timer-pwa/service-worker.js",
+    "service-worker.js.map": "/timer-pwa/service-worker.js.map",
+    "static/css/main.a617e044.chunk.css.map": "/timer-pwa/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.880acd3b.chunk.js.LICENSE.txt": "/timer-pwa/static/js/2.880acd3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42cbbe2d.js",
+    "static/js/2.880acd3b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.518d0b47.chunk.js"
+  ]
+}
